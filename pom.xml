@@ -72,7 +72,7 @@
         <artifactId>appengine-maven-plugin</artifactId>
         <version>${appengine.maven.plugin.version}</version>
          <configuration>
-                <projectId>day4demo1</projectId>
+                <projectId>five1-261904</projectId>
                 <version>1</version>
             </configuration>
       </plugin>
